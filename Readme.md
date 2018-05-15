@@ -49,7 +49,7 @@ https://restaurantbot.test/
 #### Start Chatting
 ![GitHub Logo](doc/screen/BotMan_Studio.png)
 
-#### Curently Impelement
+#### Curently Impelement (https://github.com/larsroettig/RasaNLURestaurantBot/blob/master/data/demo-rasa.json)
 - :white_check_mark: greet
 - :white_check_mark: goodbye
 - :exclamation: restaurant_search
