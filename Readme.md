@@ -35,6 +35,9 @@ python -m rasa_nlu.server --path restaurant_search
 
 ### 4. Install Web Interface
 ```
+cd restaurantbot
+composer install
+
 valet link
 valet securce
 ```
