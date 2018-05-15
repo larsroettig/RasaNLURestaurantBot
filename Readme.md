@@ -1,6 +1,6 @@
 # Rasa NLU and BotMann (Technical Puncture)
 
-This Repository combine Rasa NLU with BotMann Frame work
+This Repository combine Rasa NLU with BotMan 
 to build a Chat Bot with Natural Language Understanding. 
 
 
