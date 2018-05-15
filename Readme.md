@@ -45,3 +45,18 @@ valet securce
 ### 4. Open Web interface
 
 https://restaurantbot.test/
+
+#### Start Chatting
+![GitHub Logo](doc/screen/BotMan_Studio.png)
+
+#### Curently Impelement
+- :white_check_mark: greet
+- :white_check_mark: goodbye
+- :exclamation: restaurant_search
+  * Missing to initerpret getExtras from Rasa NLU in differnt actions
+- :exclamation: affirm
+
+
+
+
+
