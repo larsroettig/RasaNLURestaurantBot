@@ -53,7 +53,7 @@ https://restaurantbot.test/
 - :white_check_mark: greet
 - :white_check_mark: goodbye
 - :exclamation: restaurant_search
-  * Missing to initerpret getExtras from Rasa NLU in differnt actions
+  * Missing to interpret getExtras from Rasa NLU in differnt actions
 - :exclamation: affirm
 
 
